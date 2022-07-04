@@ -25,23 +25,23 @@ async def _rules(_, message: Message):
             [
                 InlineKeyboardButton(
                     text="Official Channel",
-                    url="https://t.me/TheUserGe"),
+                    url="https://t.me/deadly_SpamBot"),
                 InlineKeyboardButton(
                     text="Unofficial Help",
-                    url="https://t.me/UnofficialPluginsHelp")
+                    url="https://t.me/DEADLY_PLUGIN_TEST")
             ],
             [
                 InlineKeyboardButton(
                     text="Main Repo",
-                    url="https://github.com/UsergeTeam/UserGe"),
+                    url="https://github.com/Team-Deadly/DEADLY-SPAMBOT"),
                 InlineKeyboardButton(
-                    text="Plugins Repo",
-                    url="https://github.com/UsergeTeam/Userge-Plugins")
+                    text="Deploy Repo",
+                    url="https://github.com/Team-Deadly/BOTDEPLOY")
             ],
             [
                 InlineKeyboardButton(
                     text="Tutorial",
-                    url="https://t.me/usergeot/612003")
+                    url="https://youtu.be/mJjcO7Zy-6g")
             ]
         ]
     )
